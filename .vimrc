@@ -56,7 +56,7 @@ set smartindent
 "set nosmartindent
 
 " タブ入力時半角スペース２に変換
-set noexpandtab
+"set noexpandtab
 
 "連続した空白に対してタブキーやバックスペースでカーソルが動く幅
 set softtabstop=2
