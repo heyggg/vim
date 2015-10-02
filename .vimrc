@@ -41,6 +41,9 @@ set showcmd
 " 検索結果をハイライト表示
 set hlsearch
 
+" 256色を使用
+set t_Co=256
+
 " カラースキーム
 colorscheme hybrid
 
@@ -56,7 +59,7 @@ set smartindent
 "set nosmartindent
 
 " タブ入力時半角スペース２に変換
-"set noexpandtab
+set expandtab
 
 "連続した空白に対してタブキーやバックスペースでカーソルが動く幅
 set softtabstop=2
