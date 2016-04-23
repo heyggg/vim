@@ -51,8 +51,8 @@ colorscheme hybrid
 "set paste
 
 " 自動インデント
-set autoindent
-set smartindent
+" set autoindent
+" set smartindent
 
 " オートインデントを無効にする?
 "set noautoindent
